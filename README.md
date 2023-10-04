@@ -3,13 +3,12 @@ Study on what to learn from Javascript to learn React with Rocketseat's teaching
 
 ```bash
 Using {
-  Website:
-    - Node {
-      Vite,
-      Vanilla,
-      Typescript,
-      pnpm
-    }
+  Node:
+   - Vite
+   - Vanilla
+   - Typescript
+   - pnpm
+  }
 }
 ```
 
